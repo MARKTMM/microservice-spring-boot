@@ -4,3 +4,4 @@ Services in this build:
 * Order service - can order products.
 * Inventory service - can check if product is in stock or not.
 * Notification Service - Can send notifications after order is placed.
+* Order Service, Inventory Service and Notification Service are going to interact with each other.
