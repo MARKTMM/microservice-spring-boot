@@ -1,5 +1,6 @@
 package com.techwithmark.productservice.dto;
 
+// Lombok annotations to generate the getters and setters.
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;
