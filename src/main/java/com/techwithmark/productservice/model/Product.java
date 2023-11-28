@@ -12,7 +12,7 @@ import org.springframework.data.mongodb.core.mapping.Document;
 
 import java.math.BigDecimal;
 
-@Document(value = "product")
+@Document(value = "product") // Document annotation
 @AllArgsConstructor
 @NoArgsConstructor
 @Builder
