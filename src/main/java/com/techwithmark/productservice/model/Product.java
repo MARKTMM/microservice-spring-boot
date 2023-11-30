@@ -1,13 +1,12 @@
 package com.techwithmark.productservice.model;
 
 // Lombok annotations to generate the getters and setters.
+
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 import org.springframework.data.annotation.Id;
-
-//To define this product as a MongoDB document.
 import org.springframework.data.mongodb.core.mapping.Document;
 
 import java.math.BigDecimal;
